@@ -5,7 +5,7 @@ A high-performance real-time **semantic segmentation + object detection system**
 This project transforms raw video footage into structured pixel-level understanding of a scene, combining scene segmentation, object segmentation, and real-time visual rendering.
 
 ---
-## dev/creator=tubakhxn
+## developer=kashish
 
 ## What it does
 
